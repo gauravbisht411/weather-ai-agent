@@ -16,6 +16,44 @@ This repository demonstrates an **Agentic AI** workflow for weather forecasting 
 3. **API Calls:** The agent fetches weather data from the NWS.
 4. **AI Processing:** Claude summarizes the weather data.
 5. **Results:** The forecast is displayed in a user-friendly format.
+---
+
+## 🚀 Architecture Overview
+
+User Input (Natural Language)  
+        ↓  
+Intent Parsing & Location Extraction  
+        ↓  
+Reasoning + Planning  
+        ↓  
+Weather API Invocation  
+        ↓  
+Data Processing & Response Synthesis  
+        ↓  
+Structured Forecast Output  
+
+---
+
+## 🧠 Key Capabilities
+
+- Parses natural language weather queries
+- Extracts location context from user input
+- Autonomously decides when to call external Weather API
+- Processes raw JSON payloads
+- Returns clean, human-readable weather summaries
+- Demonstrates reasoning → planning → action → response cycle
+
+---
+
+## 🛠️ Tech Stack
+
+- Amazon Bedrock
+- Claude Sonnet model
+- Python
+- REST API integration
+- JSON parsing & data transformation
+
+---
 
 ## Setup
 ### Prerequisites

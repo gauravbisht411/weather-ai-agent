@@ -56,7 +56,7 @@ Structured Forecast Output
 ### Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/agentic-ai-workshop.git
+   git clone https://github.com/gauravbisht411/weather-ai-agent.git
    cd weather-ai-agent
    ```
 2. Install dependencies:

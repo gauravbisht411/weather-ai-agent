@@ -16,7 +16,6 @@ This repository demonstrates an **Agentic AI** workflow for weather forecasting 
 3. **API Calls:** The agent fetches weather data from the NWS.
 4. **AI Processing:** Claude summarizes the weather data.
 5. **Results:** The forecast is displayed in a user-friendly format.
----
 
 ## 🚀 Architecture Overview
 
@@ -32,8 +31,6 @@ Data Processing & Response Synthesis
         ↓  
 Structured Forecast Output  
 
----
-
 ## 🧠 Key Capabilities
 
 - Parses natural language weather queries
@@ -43,8 +40,6 @@ Structured Forecast Output
 - Returns clean, human-readable weather summaries
 - Demonstrates reasoning → planning → action → response cycle
 
----
-
 ## 🛠️ Tech Stack
 
 - Amazon Bedrock
@@ -52,8 +47,6 @@ Structured Forecast Output
 - Python
 - REST API integration
 - JSON parsing & data transformation
-
----
 
 ## Setup
 ### Prerequisites
